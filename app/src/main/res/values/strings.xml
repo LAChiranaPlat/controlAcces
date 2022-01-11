@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">controlAcces</string>
+    <string name="userName">Ingrese su nombre de Usuario</string>
+    <string name="passUser">Ingrese su Clave</string>
+</resources>
